@@ -1,0 +1,12 @@
+{
+    "serverIP": "192.168.9.52",
+    "login": "admin",
+    "password": "adminfarm123",
+    "dateBegin": "2024.06.01",
+    "dateEnd": "2024.12.31",
+    "wrong_words": [
+        "\u041f\u043e\u043b\u043d\u044b\u0439",
+        "1",
+        "\u043a\u043f\u043f"
+    ]
+}
