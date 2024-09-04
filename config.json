@@ -1,7 +1,7 @@
 {
-    "serverIP": "192.168.9.52",
-    "login": "admin",
-    "password": "adminfarm123",
+    "serverIP": "192.168.0.1",
+    "login": "login",
+    "password": "password",
     "dateBegin": "2024-07-01",
     "dateEnd": "2024-12-31",
     "wrong_words": [
